@@ -9,12 +9,12 @@
     <title>Chico UPE - Home</title>
 
     <!-- Stylesheets -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/nav.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/nav.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
 
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
   </head>
   <body>
     <div class="container">
@@ -31,13 +31,7 @@
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li class="active"><a href="/">Home</a></li>
-              <li><a href="/about.html">About</a></li>
-              <li><a href="#">Joining UPE</a></li>
-              <li><a href="#">Members</a></li>
-              <li><a href="#">Tutoring</a></li>
-              <li><a href="#">Events</a></li>
-              <li><a href="#">Projects</a></li>
+              <?php include 'inc/navlinks.php'; ?>
             </ul>
           </div>
         </div>
@@ -52,7 +46,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="upelogo.jpg" class="home-logo">
+          <img src="assets/img/upelogo.jpg" class="home-logo">
         </div>
       </div>
       <div class="row">
