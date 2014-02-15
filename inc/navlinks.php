@@ -1,6 +1,6 @@
 <?php
-  $nav = array("Home", "About", "Joining UPE", "Members", "Tutoring", "Events");
-  $links = array("/", "/about.php", "/join.php", "/members.php", "/tutoring.php", "/events.php");
+  $nav = array("Home", "Joining UPE", "Members", "Tutoring", "Events", "Contact");
+  $links = array("/", "/join.php", "/members.php", "/tutoring.php", "/events.php", "/contact.php");
   $num = count($links);
   $cur = $_SERVER['REQUEST_URI'];
   for ($i = 0; $i < $num; $i++) {

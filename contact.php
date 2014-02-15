@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Chico UPE - Home</title>
+    <title>Chico UPE - Contact</title>
 
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -38,8 +38,12 @@
       </div>
 
       <div class="row">
-        <p>About!</p>
+        <div class="col-md-12">
+          <h4>HEllo</h4>
+          </div>
+        </div>
       </div>
+
     </div> 
   </body>
 </html>

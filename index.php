@@ -57,10 +57,19 @@
         </div>
         <div class="col-md-6 offset*">
         <div class="page-header">
-          <h3>Events</h3>
+          <h3>Announcements</h3>
         </div>
         </div>
       </div>
+
+      <div class="row">
+      <div class="col-md-6">
+      </div>
+      <div class="col-md-6">
+      <?php include 'inc/announce.php'; ?>
+      </div>
+      </div>
+
     </div> 
   </body>
 </html>

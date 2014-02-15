@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Chico UPE - Home</title>
+    <title>Chico UPE - Members</title>
 
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -38,8 +38,54 @@
       </div>
 
       <div class="row">
-        <p>About!</p>
+        <div class="col-md-12">
+          <div class="page-header">
+            <h4>Faculty Advisor</h4>
+          </div>
+        </div>
       </div>
+
+      <div class="row">
+        <div class="col-md-2">
+          <img src="assets/img/tyson.jpg" class="img-responsive">
+        </div>
+        <div class="col-md-10">
+          <div class='list-group'>
+            <a href='#' class='list-group-item'>
+              <h4 class='list-group-item-heading'>Dr. Tyson Henry   
+              <small>Associate Professor</small></h4>
+            </a>
+            <a href="http://www.ecst.csuchico.edu/~tyson/" class="list-group-item">
+              Website: http://www.ecst.csuchico.edu/~tyson/
+            </a>
+            <a class="list-group-item">
+              Email: trhenry@csuchico.edu
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="page-header">
+            <h4>Current Members</h4>
+          </div>
+        </div>
+     </div>
+
+      <div class="row">
+        <?php include 'inc/curmembers.php'; ?>
+      </div>
+
+
+     <div class="row">
+        <div class="col-md-6">
+          <div class="page-header">
+            <h4>Alumni and Graduates</h4>
+          </div>
+        </div>
+      </div>
+
     </div> 
   </body>
 </html>
