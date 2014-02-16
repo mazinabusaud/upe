@@ -8,7 +8,7 @@
       // Member Name
       echo "<div class='col-md-6'>
             <div class='list-group'>
-            <a href='#' class='list-group-item'>
+            <a href='$curfile[3]' class='list-group-item'>
             <h4 class='list-group-item-heading'>";
       echo $curfile[0];
       echo "<small>".$curfile[1]."</small>

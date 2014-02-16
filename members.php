@@ -61,6 +61,10 @@
             <a class="list-group-item">
               Email: trhenry@csuchico.edu
             </a>
+            <a class="list-group-item">
+            <br>
+            <br>
+            </a>
           </div>
         </div>
       </div>

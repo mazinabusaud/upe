@@ -57,7 +57,7 @@
 
 
       When you apply for membership, you are applying for the next semester.  The <strong>induction ceremony is held within the first 3-4 weeks of every 
-      Spring semester.</strong><br><br>
+      semester.</strong><br><br>
 
       To join, the following requirements must be met:<br><br>
       <div class="col-md-10 col-md-offset-1">
@@ -70,6 +70,15 @@
             <li> Computer Engineering (EECE)</li>
             </ul>
           </div>
+          <div class="list-group-item">
+            Completion of 15 units required by your major including CSCI 111, 211, 311, and units from the following list of classes:
+            <ul>
+              <li> CSCI: 221, 217, 340, 344, 346, 551, 465</li>
+              <li> CINS: 370, 448</li>
+              <li> EECE: 320</li>
+              <li> MATH: 217</li>
+            </ul>
+          </div>
           <div class="list-group-item">Minimum of 45 college units.</div>
           <div class="list-group-item">At least two semesters of residency at CSU Chico.</div>
           <div class="list-group-item">A GPA of 3.25.</div>
@@ -78,12 +87,6 @@
           <div class="list-group-item">Attending the Initiation Ceremony (if accepted).</div>
         </div>
       </div>
-Completion of 15 units required by your major including CSCI 111, 211, 311, and units from the following list of classes:
-CSCI: 221, 217, 340, 344, 346, 551, 465
-CINS: 370, 448
-EECE: 320
-MATH: 217
-Must be committed to student community service while attending California State University, Chico.
 Graduate Requirements
 A graduate student is defined as a person pursuing a graduate degree in Computer Science or Computer Engineering. Applicants
 
