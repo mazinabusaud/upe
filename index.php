@@ -18,6 +18,9 @@
   </head>
   <body>
     <div class="container">
+      
+      <?php include 'inc/banner.php'?>
+
       <div class="navbar navbar-default" role="navigation">
         <div class="container-fluid">
           <div class="navbar-header">

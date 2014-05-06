@@ -18,6 +18,8 @@
   </head>
   <body>
     <div class="container">
+      <?php include 'inc/banner.php' ?>
+
       <div class="navbar navbar-default" role="navigation">
         <div class="container-fluid">
           <div class="navbar-header">
@@ -38,29 +40,11 @@
       </div>
 
       <div class="row">
-        <div class="col-md-8">
-          <div class="jumbotron">
-            <h2>Welcome to the California State University Chico Chapter of Upsilon Pi Epsilon!</h2>
-              <p>On our site, you'll find information about our members and membership, our tutoring 
-              schedule, some helpful resources, and information on UPE projects.</p>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <img src="upelogo.jpg" class="home-logo">
+        <div class="col-md-12 text-center">
+        <iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=fg76j9mgh7fvrvc6u7efsbfeq4%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-6">
-        <div class="page-header">
-          <h3>News</h3>
-        </div>
-        </div>
-        <div class="col-md-6 offset*">
-        <div class="page-header">
-          <h3>Events</h3>
-        </div>
-        </div>
-      </div>
+
     </div> 
   </body>
 </html>

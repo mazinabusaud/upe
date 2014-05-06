@@ -2,7 +2,7 @@ Member file guide
 ===================
 
 Every member file needs to follow this format. I don't do error checking for
-parsing member files so if the format isn't right it'll break the site.<
+parsing member files so if the format isn't right it'll break the site.
 
 
 Line 1: Member name<br>
