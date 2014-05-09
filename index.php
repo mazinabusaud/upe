@@ -55,21 +55,22 @@
       <div class="row">
         <div class="col-md-6">
         <div class="page-header">
-          <h3>News</h3>
+          <h3>Announcements</h3>
         </div>
         </div>
         <div class="col-md-6 offset*">
         <div class="page-header">
-          <h3>Announcements</h3>
+          <h3>Upcoming Events</h3>
         </div>
         </div>
       </div>
 
       <div class="row">
       <div class="col-md-6">
+      <?php include 'inc/announce.php'; ?>
       </div>
       <div class="col-md-6">
-      <?php include 'inc/announce.php'; ?>
+      <?php include 'inc/events.php'; ?>
       </div>
       </div>
 

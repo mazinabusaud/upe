@@ -73,7 +73,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="page-header">
-            <h4>Current Members</h4>
+            <h4>Officers</h4>
           </div>
         </div>
      </div>
