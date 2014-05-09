@@ -9,17 +9,17 @@
     <title>Chico UPE - Home</title>
 
     <!-- Stylesheets -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/nav.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="./assets/css/bootstrap.css" rel="stylesheet">
+    <link href="./assets/css/nav.css" rel="stylesheet">
+    <link href="./assets/css/style.css" rel="stylesheet">
 
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="./assets/js/jquery.min.js"></script>
+    <script src="./assets/js/bootstrap.min.js"></script>
   </head>
   <body>
     <div class="container">
       
-      <?php include 'inc/banner.php'?>
+      <?php include './include/banner.php'?>
 
       <div class="navbar navbar-default" role="navigation">
         <div class="container-fluid">
@@ -34,7 +34,7 @@
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <?php include 'inc/navlinks.php'; ?>
+              <?php include './include/navlinks.php'; ?>
             </ul>
           </div>
         </div>
@@ -49,7 +49,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="assets/img/upelogo.jpg" class="home-logo">
+          <img src="./assets/img/upelogo.jpg" class="home-logo">
         </div>
       </div>
       <div class="row">
@@ -67,10 +67,10 @@
 
       <div class="row">
       <div class="col-md-6">
-      <?php include 'inc/announce.php'; ?>
+      <?php include './include/announce.php'; ?>
       </div>
       <div class="col-md-6">
-      <?php include 'inc/events.php'; ?>
+      <?php include './include/events.php'; ?>
       </div>
       </div>
 

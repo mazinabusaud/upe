@@ -9,16 +9,16 @@
     <title>Chico UPE - Tutoring</title>
 
     <!-- Stylesheets -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/nav.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href=".assets/css/bootstrap.css" rel="stylesheet">
+    <link href=".assets/css/nav.css" rel="stylesheet">
+    <link href=".assets/css/style.css" rel="stylesheet">
 
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src=".assets/js/jquery.min.js"></script>
+    <script src=".assets/js/bootstrap.min.js"></script>
   </head>
   <body>
     <div class="container">
-      <?php include 'inc/banner.php'?>
+      <?php include './include/banner.php'?>
       <div class="navbar navbar-default" role="navigation">
         <div class="container-fluid">
           <div class="navbar-header">
@@ -32,7 +32,7 @@
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <?php include 'inc/navlinks.php'; ?>
+              <?php include './include/navlinks.php'; ?>
            </ul>
           </div>
         </div>
