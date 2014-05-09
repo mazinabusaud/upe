@@ -9,12 +9,12 @@
     <title>Chico UPE - Join</title>
 
     <!-- Stylesheets -->
-    <link href="./assets/css/bootstrap.css" rel="stylesheet">
-    <link href="./assets/css/nav.css" rel="stylesheet">
-    <link href="./assets/css/style.css" rel="stylesheet">
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="/assets/css/nav.css" rel="stylesheet">
+    <link href="/assets/css/style.css" rel="stylesheet">
 
-    <script src="./assets/js/jquery.min.js"></script>
-    <script src="./assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
   </head>
   <body>
     <div class="container">
