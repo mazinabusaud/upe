@@ -8,16 +8,20 @@ echo "<div id='carousel-example-generic' class='carousel slide' data-ride='carou
 
         <div class='carousel-inner'>
           <div class='item active'>
-            <img src='assets/img/stock1.jpg'>
+            <img src='./assets/img/stock1.jpg'>
             <div class='carousel-caption'>
             </div>
           </div>
           <div class='item'>
-            <img src='assets/img/stock2.jpg'>
+            <img src='./assets/img/stock2.jpg'>
             <div class='carousel-caption'>
             </div>
           </div>
-
+          <div class='item'>
+            <img src='./assets/img/stock3.jpg' height='5'>
+            <div class='carousel-caption'>
+            </div>
+          </div>
         </div>
 
         <a class='left carousel-control' href='#carousel-example-generic' data-slide='prev'>

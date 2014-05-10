@@ -1,6 +1,6 @@
 <?php
   // Grabbing all the files out of the announce directory
-  $files = array_reverse(scandir('announce/'));
+  $files = scandir('announce/');
   foreach ($files as $file) {
     if ($file != "." && $file != ".." && $file != "README.md") {
       $curfile = file("announce/$file");
