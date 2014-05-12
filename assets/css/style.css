@@ -5,16 +5,33 @@ p { font-size:13px; }
 .container { background-color:#fff; }
 
 .home-logo {
-  display:block;
-  margin-left:auto;
-  margin-right:auto;
-  height:300px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:45px;
+    height:300px;
 }
 
 @media screen and (max-width: 568px) {
-  .navbar-brand { font-size:18px; }
+    .navbar-brand { font-size:18px; }
 }
 
 @media screen and (max-width: 568px) {
-  h2 { font-size:26px; }
+    h2 { font-size:26px; }
 }
+
+.container {
+    max-width:50%;
+}
+
+.page-header {
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.jumbotron {
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
