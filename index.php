@@ -51,12 +51,15 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm-4">
         <div class="page-header">
           <h3>Announcements</h3>
         </div>
+        <div class="visible-sm visible-xs">
+            <?php include './include/announce.php'; ?>
         </div>
-        <div class="col-md-6 offset*">
+        </div>
+        <div class="col-md-6 offset* col-sm-4">
         <div class="page-header">
           <h3>Upcoming Events</h3>
         </div>
@@ -64,7 +67,7 @@
       </div>
 
       <div class="row">
-      <div class="col-md-6">
+      <div class="visible-md visible-lg col-md-6">
       <?php include './include/announce.php'; ?>
       </div>
       <div class="col-md-6">
