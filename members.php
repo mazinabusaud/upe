@@ -50,11 +50,11 @@
         <div class="col-md-2">
           <img src="assets/img/tyson.jpg" class="img-responsive">
         </div>
-        <div class="col-md-10">
+        <div class="col-md-8">
           <div class='list-group'>
             <a href='#' class='list-group-item'>
               <h4 class='list-group-item-heading'>Dr. Tyson Henry   
-              <small>Associate Professor</small></h4>
+              <small>Professor</small></h4>
             </a>
             <a href="http://www.ecst.csuchico.edu/~tyson/" class="list-group-item">
               Website: http://www.ecst.csuchico.edu/~tyson/
@@ -67,6 +67,9 @@
             <br>
             </a>
           </div>
+        </div>
+        <div class="col-md-2">
+            <img src="assets/img/upelogo.jpg" class="img-responsive">
         </div>
       </div>
 

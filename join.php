@@ -40,7 +40,10 @@
 
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
-        <div class="page-header"><h2>Joining Upsilon Pi Epsilon<h2></div>
+            <div class="page-header">
+                <h2>Joining Upsilon Pi Epsilon<h2>
+                <h5><a href="./assets/forms/new_upe_application.pdf" target="blank">UPE application can be found here</a> <h5>
+            </div>
         </div>
       </div>
 
@@ -74,7 +77,7 @@
             Attending the Initiation Ceremony (if accepted).
           </div>
           <div class="list-group-item">
-              Community service while attending California State University, Chico (if accepted).
+              Willing to contribute 60 hours of community service while attending California State University, Chico (if accepted).
           </div>
         </div>
       </div>
@@ -88,7 +91,7 @@
             <ul>
               <li> Computer Science (CSCI)</li>
               <li> Computer Information Systems (CINS)</li>
-              <li> Applied Computer Graphics (ACG), Technical option</li>
+              <li> Computer Animation and Game Design (CADG), Technical option</li>
               <li> Computer Engineering (EECE)</li>
             </ul>
           </div>
@@ -99,12 +102,12 @@
             At least two semesters of residency at CSU Chico.
           </div>
           <div class="list-group-item">
-            A GPA of 3.25.
+            A GPA of 3.0 Overall and a Major GPA of 3.25 
           </div>
           <div class="list-group-item">
-            Completion of 15 units required by your major including CSCI 111, 211, 311, and units from the following list of classes:
+            Completion of 15 units required by your major including CSCI 111, 211, 311, and any of the following list of classes:
             <ul>
-              <li> CSCI: 221, 217, 340, 344, 346, 551, 465</li>
+              <li> CSCI: 237, 217, 340, 344, 446, 551, 465</li>
               <li> CINS: 370, 448</li>
               <li> EECE: 320</li>
               <li> MATH: 217</li>
@@ -132,7 +135,7 @@
 
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
-      <p>If you meet these criteria, please fill out an application and submit it to the Computer Science 
+      <p>If you meet these criteria, <a href="./assets/forms/new_upe_application.pdf" target="blank">please fill out an application</a> and submit it to the Computer Science 
       Department Office (2nd floor, O'Connell Technology Center) by the posted deadline. The deadline can 
       be found on the events calendar. If your application is accepted, you will need to pay the one-time, 
       lifetime membership fee of $90 and attend the Initiation Ceremony in order to become an official member.

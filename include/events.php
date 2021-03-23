@@ -1,6 +1,6 @@
 <?php
   // Grabbing all the files out of the events directory
-  $files = array_reverse(scandir('events/'));
+  $files = scandir('events/');
   foreach ($files as $file) {
     if ($file != "." && $file != ".." && $file != "README.md") {
       $curfile = file("events/$file");
