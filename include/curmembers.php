@@ -12,7 +12,7 @@
               echo "<div class='row'>";
       }
       //Add Photo
-      if($file != "3_Secretary"){
+      if($file != "3_Secretary" && $file != "4_Treasurer"){
               echo "<div class='col-md-2'>
                       <img src='assets/img/$file.jpg' class='img-responsive'>
                     </div>";
@@ -35,9 +35,9 @@
       echo "<p class='list-group-item-text'>
               Member since: ".$curfile[2]."</p>";
 
-      // Github
+      // LinkedIn
       echo "<p class='list-group-item-text'>
-              Github: ".$curfile[3]."</p>";
+              LinkedIn: ".$curfile[3]."</p>";
 
       // Email 
       echo "<p class='list-group-item-text'>
