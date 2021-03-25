@@ -48,19 +48,19 @@
 
       <div class="row">
         <div class="col-md-2">
-          <img src="assets/img/tyson.jpg" class="img-responsive">
+          <img src="assets/img/raigoza.jpeg" class="img-responsive">
         </div>
         <div class="col-md-8">
           <div class='list-group'>
             <a href='#' class='list-group-item'>
-              <h4 class='list-group-item-heading'>Dr. Tyson Henry   
-              <small>Professor</small></h4>
+              <h4 class='list-group-item-heading'>Dr. Jaime Raigoza   
+              <small>Assistant Professor</small></h4>
             </a>
-            <a href="http://www.ecst.csuchico.edu/~tyson/" class="list-group-item">
-              Website: http://www.ecst.csuchico.edu/~tyson/
+            <a href="https://www.csuchico.edu/csci/people/faculty/raigoza-jaime.shtml" class="list-group-item">
+              Website: www.csuchico.edu/csci/people/faculty/raigoza-jaime.shtml
             </a>
             <a class="list-group-item">
-              Email: trhenry@csuchico.edu
+              Email:  jraigoza@csuchico.edu
             </a>
             <a class="list-group-item">
             <br>
