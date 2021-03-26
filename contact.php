@@ -42,7 +42,7 @@
 
       <div class="row">
         <div class="col-md-12">
-          <h4>HEllo</h4>
+          <h4><a href="members.php">Contact information for current officers and faculty advisor can be found on our members page.</a></h4>
           </div>
         </div>
       </div>

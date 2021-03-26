@@ -41,7 +41,7 @@
       <div class="row">
         <p class="lead">UPE free tutoring to students of Computer Science and related majors temporarily suspended.</br></p>
         <p class="lead">Computer Science Tutoring Schedule can be found <a href='https://docs.google.com/spreadsheets/d/1nKZrqSS4DoQSAv4uS7j_8p3oucPqUCpNaEGaNvsQNf8/edit#gid=0'>HERE</a></br></p>
-        <p>Our members help out in the CSCI 111/211/311 Computer Labs, but if you stop by O'Connell 211 there's usually one or more UPE members around. Feel free to stop in and ask a question, and we'll help you any way we can.
+        <p>When on campus, our members help out in the CSCI 111/211/311 Computer Labs, but if you stop by O'Connell 211 there's usually one or more UPE members around. Feel free to stop in and ask a question, and we'll help you any way we can.
       </div>
     </div> 
   </body>
