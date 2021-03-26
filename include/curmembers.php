@@ -12,7 +12,7 @@
               echo "<div class='row'>";
       }
       //Add Photo
-      if($file != "3_Secretary" && $file != "4_Treasurer"){
+      if($file != "4_Treasurer"){
               echo "<div class='col-md-2'>
                       <img src='assets/img/$file.jpg' class='img-responsive'>
                     </div>";
