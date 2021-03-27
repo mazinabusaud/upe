@@ -12,16 +12,9 @@
               echo "<div class='row'>";
       }
       //Add Photo
-      if($file != "4_Treasurer"){
-              echo "<div class='col-md-2'>
-                      <img src='assets/img/$file.jpg' class='img-responsive'>
-                    </div>";
-      }
-      else{
-              echo "<div class='col-md-2'>
-                      <img src='assets/img/404.jpg' class='img-responsive'>
-                    </div>";
-      }
+      echo "<div class='col-md-2'>
+              <img src='assets/img/$file.jpg' class='img-responsive'>
+            </div>";
       // Member Name
       echo "<div class='col-md-4'>
             <div class='list-group'>
