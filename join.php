@@ -71,7 +71,7 @@
             Completing an application by the specified deadline (this can be found in announcements.
           </div>
           <div class="list-group-item">
-            Paying the one-time $90 membership fee (if accepted).
+            Paying the one-time $60 membership fee (if accepted).
           </div>
           <div class="list-group-item">
             Attending the Initiation Ceremony (if accepted).
