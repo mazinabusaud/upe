@@ -42,8 +42,11 @@
         <div class="col-md-8">
           <div class="jumbotron">
             <h2>Welcome to the California State University Chico Chapter of Upsilon Pi Epsilon!</h2>
-              <p>On our site, you'll find information about our members and membership, our tutoring 
-              schedule, some helpful resources, and information on UPE projects.</p>
+            <p>The mission of Upsilon Pi Epsilon (UPE) is to recognize academic excellence at both 
+            the undergraduate and graduate levels in the Computing and Information Disciplines.</p>
+            <p> UPE is a member of the&nbsp;<a href="https://www.achsnatl.org/">Association of 
+            College Honor Societies</a>&nbsp;(ACHS) and has chapters in over 300 colleges and 
+            universities across the globe.</p>
           </div>
         </div>
         <div class="col-md-4">
