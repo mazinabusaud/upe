@@ -37,7 +37,7 @@
           </div>
         </div>
       </div>
-
+<!-- 
       <div class="row">
         <div class="col-md-12">
           <div class="page-header">
@@ -72,7 +72,7 @@
             <img src="assets/img/upelogo.jpg" class="img-responsive">
         </div>
       </div>
-
+ -->
       <div class="row">
         <div class="col-md-12">
           <div class="page-header">
@@ -85,7 +85,7 @@
         <?php include './include/curmembers.php'; ?>
       </div>
 
-
+<!-- 
      <div class="row">
         <div class="col-md-6">
           <div class="page-header">
@@ -93,7 +93,7 @@
           </div>
         </div>
       </div>
-
+ -->
     </div> 
   </body>
 </html>

@@ -25,20 +25,34 @@
             </h4>";
 
       // Join date
+      if (strlen($curfile[2]) > 1){
       echo "<p class='list-group-item-text'>
               Member since: ".$curfile[2]."</p>";
+      }else{
+        echo "<p class='list-group-item-text'></p>";
+      }
+      
 
       // LinkedIn
-      echo "<p class='list-group-item-text'>
-              LinkedIn: ".$curfile[3]."</p>";
+      if (strlen($curfile[3]) > 1){
+        echo "<p class='list-group-item-text'>
+            ".$curfile[3]."</p>";
+        //echo "<p class='list-group-item-text'><a href='$curfile[3]'>LinkedIn</a></p>";
+      }else{
+        echo "<p class='list-group-item-text'></p>";
+      }
 
       // Email 
       echo "<p class='list-group-item-text'>
               Email: ".$curfile[4]."</p>";
 
       // Skills
+      if (strlen($curfile[5]) > 1){
       echo "<p class='list-group-item-text'>
               Can Help With: ".$curfile[5]."</p>";
+      }else{
+        echo "<p class='list-group-item-text'></p>";
+      }
 
       echo "</a>";
       echo "</div>";
