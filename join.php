@@ -138,9 +138,9 @@
       <p>If you meet these criteria, <a href="./assets/forms/new_upe_application.pdf" target="blank">please fill out an application</a> and submit it to the Computer Science 
       Department Office (2nd floor, O'Connell Technology Center) by the posted deadline. The deadline can 
       be found on the events calendar. If your application is accepted, you will need to pay the one-time, 
-      lifetime membership fee of $90 and attend the Initiation Ceremony in order to become an official member.
+      lifetime membership fee of $60 and attend the Initiation Ceremony in order to become an official member.
       <br><br>
-      If your application is accepted, you will need to pay the one-time, lifetime membership fee of $90 
+      If your application is accepted, you will need to pay the one-time, lifetime membership fee of $60 
       and attend the Initiation Ceremony in order to become an official member.
       <br><br>
       All information submitted will be verified against your transcripts. You may submit supplemental materials 
@@ -189,7 +189,7 @@
     <p>At the end of the semester, Provisional Members will report to the UPE officers their grades 
     for the required classes they were lacking for Permanent Membership. If the Provisional Member 
     still satisfies the Membership Requirements, they will be invited to join as a Permanent Member 
-    with no additional cost. The one-time $90 fee must be collected at the time of Provisional Membership, 
+    with no additional cost. The one-time $60 fee must be collected at the time of Provisional Membership, 
     and cannot be refunded should the Provisional Member fall below the Permanent Membership requirements.
     </p>
   </div>
