@@ -18,7 +18,7 @@
   </head>
   <body>
     <div class="container">
-      <?php include './include/banner.php'?>
+      <?php include './include/new_banner.php'?>
       <div class="navbar navbar-default" role="navigation">
         <div class="container-fluid">
           <div class="navbar-header">
